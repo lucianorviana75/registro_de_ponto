@@ -1,0 +1,1 @@
+ C:\\Users\\ribei\\registro_ponto\\.dart_tool\\flutter_build\\76c908fd2dca41069c7844ff20995322\\dart_build_result.json:  C:\\Users\\ribei\\registro_ponto\\.dart_tool\\package_config.json C:\\Users\\ribei\\registro_ponto\\pubspec.yaml C:\\flutter\\bin\\cache\\dart-sdk\\version c:\\users\\ribei\\registro_ponto\\.dart_tool\\package_config.json

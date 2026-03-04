@@ -1,0 +1,1 @@
+ C:\\Users\\ribei\\registro_ponto\\.dart_tool\\flutter_build\\76c908fd2dca41069c7844ff20995322\\native_assets.json: 
